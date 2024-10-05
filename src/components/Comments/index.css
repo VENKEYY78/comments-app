@@ -1,0 +1,72 @@
+.app-container {
+  background-color: #ffffff;
+  background-size: cover;
+  margin: 20px;
+}
+
+.input-comment-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.from-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.comment-heading {
+}
+
+.image-container {
+}
+
+.comments-image {
+  height: 300px;
+}
+
+.input-name {
+  height: 30px;
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #dee0e3;
+  font-size: 15px;
+}
+
+.comment-box {
+  height: 130px;
+  padding: 10px;
+  font-family: 'Roboto';
+  margin-bottom: 20px;
+  border: 1px solid #dee0e3;
+  font-size: 15px;
+}
+
+.add-button {
+  height: 30px;
+  width: 120px;
+  background-color: #0b69ff;
+  color: #ffffff;
+  font-family: 'Roboto';
+  border-width: 0px;
+  border-radius: 4px;
+  cursor: pointer;
+  outline: none;
+}
+
+.count-comments {
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.count {
+  background-color: #0b69ff;
+  color: #ffffff;
+  padding: 8px;
+  border-radius: 3px;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.comments-list-container {
+  list-style-type: none;
+}
